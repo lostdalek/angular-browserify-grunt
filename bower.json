@@ -1,0 +1,13 @@
+{
+  "name": "angular-browserify-grunt",
+  "version": "0.0.1",
+  "dependencies": {
+    "font-awesome": "*",
+    "angular-resource": "*",
+    "angular-mocks": "*",
+    "angular-ui-router": "~0.2.10",
+    "jquery": "~2.1.1",
+    "modernizr": "*"
+  }
+}
+
